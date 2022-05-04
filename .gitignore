@@ -1,0 +1,7 @@
+app/build/**/*
+target/**/*
+.gradle/**/*
+.mvn/**/*
+.idea/**/*
+**/*.log
+
